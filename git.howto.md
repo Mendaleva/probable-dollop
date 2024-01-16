@@ -9,3 +9,8 @@ git init
 ```sh
 git add
 ```
+
+Фиксация изменений в репозитории
+```sh
+git commit -m (Massage)
+```
