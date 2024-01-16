@@ -20,3 +20,7 @@ git commit -m (Massage)
 git log
 ```
 
+Отображение краткого состояния проекта
+```sh
+git log --oneline
+```
