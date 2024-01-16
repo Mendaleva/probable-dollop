@@ -24,3 +24,8 @@ git log
 ```sh
 git log --oneline
 ```
+
+Переключение между последними коммитами
+```sh
+git checkout
+```
