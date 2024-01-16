@@ -14,3 +14,9 @@ git add
 ```sh
 git commit -m (Massage)
 ```
+
+Отображение полного состояния проекта
+```sh
+git log
+```
+
