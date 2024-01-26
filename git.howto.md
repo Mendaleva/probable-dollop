@@ -12,7 +12,7 @@ git add
 
 Фиксация изменений в репозитории
 ```sh
-git commit -m (Massage)
+git commit -m (Massage text)
 ```
 
 Отображение полного состояния проекта
