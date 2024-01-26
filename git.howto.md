@@ -27,9 +27,10 @@ git log --oneline
 
 Переключение между последними коммитами
 ```sh
-git checkout
+git checkout <имя ветки>
 ```
 Отображение всех веток 
 ```sh
 git branch
 ```
+
