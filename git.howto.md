@@ -48,3 +48,8 @@ git branch -d <имя ветки>
 ```sh
 git log -graph
 ```
+
+Слияние двух веток(сливать из главной ветки)
+```sh
+git merge <branch_name>
+```
