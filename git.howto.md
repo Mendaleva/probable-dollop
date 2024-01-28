@@ -43,3 +43,8 @@ git branch <имя_ветки>
 ```sh
 git branch -d <имя ветки>
 ```
+
+Вывод списка комитов 
+```sh
+git log -graph
+```
