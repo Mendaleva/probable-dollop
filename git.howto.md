@@ -58,3 +58,7 @@ git checkout <branch_name>
 ```sh
 git diff
 ```
+Сливание веток (в ту, в которой находитесь в данный момент)
+```sh
+git merge <branch_name>
+```
