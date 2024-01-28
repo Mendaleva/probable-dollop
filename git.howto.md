@@ -49,7 +49,7 @@ git branch -d <имя ветки>
 git log -graph
 ```
 
-Вывести список удаленных изменеий 
+Переход с одной ветки на другую
 ```sh
-git branch -a
+git checkout <branch_name>
 ```
