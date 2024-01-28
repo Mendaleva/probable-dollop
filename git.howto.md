@@ -53,3 +53,8 @@ git log -graph
 ```sh
 git checkout <branch_name>
 ```
+
+Просмотр списка изменений внесенных в репозиторий
+```sh
+git diff
+```
