@@ -48,3 +48,8 @@ git branch -d <имя ветки>
 ```sh
 git log -graph
 ```
+
+Вывести список удаленных изменеий 
+```sh
+git branch -a
+```
