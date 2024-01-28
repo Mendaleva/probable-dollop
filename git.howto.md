@@ -62,3 +62,7 @@ git diff
 ```sh
 git merge <branch_name>
 ```
+Вывод списка удаленных изменений
+```sh
+git branch-a
+```
