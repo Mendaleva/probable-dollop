@@ -48,3 +48,8 @@ git branch -d <имя ветки>
 ```sh
 git log -graph
 ```
+
+Сливание веток (в ту, в которой находитесь в данный момент)
+```sh
+git merge <branch_name>
+```
