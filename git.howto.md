@@ -48,3 +48,8 @@ git branch -d <имя ветки>
 ```sh
 git log -graph
 ```
+
+Переход с одной ветки на другую
+```sh
+git checkout <branch_name>
+```
